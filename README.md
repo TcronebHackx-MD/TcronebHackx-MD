@@ -12,7 +12,7 @@
             <img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/2711791/original/Tcroneb_Hackx20230608-69-1gt13gw.jpg" width=169 height=100 />
         </a>
         <a href="https://www.hackerrank.com/certificates/c3daf8efff6a">
-            <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0db76fcc15e2.png" width=200 height=130/>
+            <img src="https://user-images.githubusercontent.com/118578799/233812176-983a8253-d161-4a1e-a336-0d6fcc15e2.png" width=200 height=130/>
         </a>
         <a href="https://verify.mygreatlearning.com/verify/OWNKOILF">
             <img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/2712126/original/Mike_20230608-69-vs9xma.jpg" width=169 height=100 />
